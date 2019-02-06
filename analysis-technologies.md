@@ -7,4 +7,4 @@
 
 #### **R** [here](r-resources.md)
 
-NB: The core curriculum centers on python-based techniques and technologies
+* NB: The core curriculum centers on python-based techniques and technologies
